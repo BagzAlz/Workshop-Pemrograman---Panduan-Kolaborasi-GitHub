@@ -218,6 +218,8 @@ Dengan workflow ini diharapkan:
 - Menghindari konflik kode
 - Mudah melakukan rollback jika terjadi error
 
+---
+
 # Diagram Workflow Git
 
 ```mermaid
@@ -244,7 +246,7 @@ gitGraph
    merge development
 ```
 
-![alt text](<Git Workflow for Feature-2026-03-12-065058-1.png>)
+![Diagram Workflow Git](<Git Workflow for Feature-2026-03-12-065058-1.png>)
 
 Diagram di atas menggambarkan alur kerja:
 
@@ -256,3 +258,6 @@ Diagram di atas menggambarkan alur kerja:
 
 ---
 
+<div align="center">
+    Made with ❤️ by Bagus Ali Akbar untuk Workshop Pemrograman
+</div>
